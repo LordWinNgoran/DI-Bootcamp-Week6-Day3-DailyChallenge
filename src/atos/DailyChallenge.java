@@ -1,12 +1,14 @@
-package atos;
 
+//Daily Challenge : Multiplication table
 /*
- * Daily Challenge : Multiplication table
- *  Create a program that prompts the user to enter a number
+*  	@author: N'goran Kouadio Jean Cyrille
+* 	@description: Create a program that prompts the user to enter a number
  *  Then uses a nested for loop to print a multiplication table for the entered number
  *  While loop to find the factorial of the entered number
  *  And a do-while loop to print the Fibonacci sequence up to the entered number.
- */
+* 	Date : 02/02/2023
+*/
+package atos;
 import java.util.Scanner;
 
 public class DailyChallenge {
